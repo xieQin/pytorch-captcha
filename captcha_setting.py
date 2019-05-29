@@ -19,6 +19,6 @@ IMAGE_WIDTH = 40
 
 DATA_PATH = 'images/data/'
 SVAE_PATH = 'images/test/'
-TRAIN_PATH = 'images/test/'
+TRAIN_PATH = 'images/crop/'
 TEMP_PATH = 'images/temp/'
 TEST_PATH = 'images/test/'

@@ -4,7 +4,7 @@ import uuid
 import get_images
 import captcha_setting
 
-count = 2
+count = 100
 
 for i in range(count):
   uid = uuid.uuid1()
