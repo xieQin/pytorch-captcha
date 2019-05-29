@@ -1,0 +1,16 @@
+__pycache__
+images
+dataset
+result.txt
+res.txt
+test.txt
+not.txt
+mobiles.txt
+captcha_predict.py
+captcha_gen.py
+docs/number2.png
+docs/number.png
+model/model.pkl
+model.pkl
+crack_phone.py
+get_phone.py
