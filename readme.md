@@ -1,5 +1,10 @@
 ### pytorch 基于CNN的验证码识别
 
+#### 安装依赖
+```python
+pip3 install -r requirements.txt
+```
+
 #### 实现思路
 - 获取图片
 - 灰度二值化
